@@ -1,0 +1,27 @@
+{
+  "name": "my-to-do-list",
+  "version": "1.0.0",
+  "description": "My firs App To-Do List",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnatoliiMazur/My-to-do-list.git"
+  },
+  "author": "Anatolii Mazut",
+  "license": " MIT",
+  "bugs": {
+    "url": "https://github.com/AnatoliiMazur/My-to-do-list/issues"
+  },
+  "homepage": "https://github.com/AnatoliiMazur/My-to-do-list#readme"
+}
